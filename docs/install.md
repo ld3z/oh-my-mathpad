@@ -53,3 +53,7 @@ First select your browser below:
     Install on Safari
   </LinkCard>
 </CardGrid>
+
+::: details What if my browser is not listed here?
+Then you're most likely using some form of the Chromium browser. In which case, select the ```Chrome``` option to install.
+:::
