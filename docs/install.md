@@ -59,6 +59,6 @@ First select your browser below:
   </LinkCard>
 </CardGrid>
 
-::: details What if my browser is not listed here?
+::: details What if my browser is not listed here? {open}
 Then you're most likely using some form of the Chromium browser. In which case, select the ```Chrome``` option to install.
 :::
