@@ -1,6 +1,6 @@
-# A guide on how to install:
+# Install
 
-Installing this userscript entirely depends on what browser you are using:
+First select your browser below:
 
 <CardGrid>
   <LinkCard
@@ -8,13 +8,48 @@ Installing this userscript entirely depends on what browser you are using:
     link="/chrome-install"
     logo="/chrome.svg"
   >
-    Install on Chrome and other Chromium-based browsers
+    Install on Google Chrome
   </LinkCard>
   <LinkCard
+    title="Brave"
+    link="/brave-install"
+    logo="/brave.svg"
+  >
+    Install on Brave
+  </LinkCard>
+  <LinkCard
+    title="Vivaldi"
+    link="/vivaldi-install"
+    logo="/vivaldi.svg"
+  >
+    Install on Vivaldi
+  </LinkCard>
+  <LinkCard
+    title="Opera"
+    link="/opera-install"
+    logo="/opera.svg"
+  >
+    Install on Opera
+  </LinkCard>
+  <LinkCard
+    title="Edge"
+    link="/edge-install"
+    logo="/edge.svg"
+  >
+    Install on Microsoft Edge
+  </LinkCard>
+    <LinkCard
     title="Firefox"
     link="/firefox-install"
     logo="/firefox.svg"
   >
-    Install on Firefox
+    Install on Mozilla Firefox
+  </LinkCard>
+    <LinkCard
+    title="Safari"
+    link="/safari-install"
+    logo="/safari.svg"
+  >
+    Install on Safari
   </LinkCard>
 </CardGrid>
