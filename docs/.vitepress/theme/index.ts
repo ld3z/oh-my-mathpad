@@ -2,6 +2,8 @@
 import { h } from 'vue'
 import type { Theme } from 'vitepress'
 import DefaultTheme from 'vitepress/theme'
+import CardGrid from './components/CardGrid.vue'
+import LinkCard from './components/LinkCard.vue'
 import './style.css'
 
 export default {
@@ -12,6 +14,7 @@ export default {
     })
   },
   enhanceApp({ app, router, siteData }) {
-    // ...
+    app.component('CardGrid', CardGrid)
+    app.component('LinkCard', LinkCard)
   }
 } satisfies Theme
