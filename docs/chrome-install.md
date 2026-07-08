@@ -10,7 +10,9 @@ Before installing the userscript, you'll need a UserScript manager to manage it.
 
 1. Install ScriptCat
 
-   Install the [ScriptCat extension](https://chromewebstore.google.com/detail/scriptcat/ndcooeababalnlpkfedmmbbbgkljhpjf) from the Chrome Web Store.
+   Install the ScriptCat extension from the Chrome Web Store.
+
+   <DownloadButton link="https://chromewebstore.google.com/detail/scriptcat/ndcooeababalnlpkfedmmbbbgkljhpjf">Get ScriptCat</DownloadButton>
 
 2. Install the userscript
 
