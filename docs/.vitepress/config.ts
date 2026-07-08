@@ -30,7 +30,8 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'Browsers',
+        text: 'Home',
+        link: '/',
         items: [
           {
             text: 'Chromium Browsers',
@@ -38,7 +39,8 @@ export default defineConfig({
               { text: 'Google Chrome', link: '/chrome-install' },
               { text: 'Brave', link: '/brave-install' },
               { text: 'Microsoft Edge', link: '/edge-install' },
-              { text: 'Vivaldi', link: '/vivaldi-install' }
+              { text: 'Vivaldi', link: '/vivaldi-install' },
+              { text: 'Opera', link: '/opera-install' }
             ]
           },
           {
