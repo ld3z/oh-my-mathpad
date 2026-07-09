@@ -57,7 +57,7 @@ export default defineConfig({
     socialLinks: [
       {
         icon: 'github',
-        link: 'https://github.com/ld3z/oh-my-mathpad'
+        link: 'https://github.com/ld3z/omm'
       }
     ]
   }
