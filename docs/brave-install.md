@@ -39,7 +39,7 @@ Before installing the userscript, you'll need a UserScript manager to manage it.
 
 4. Install the userscript
 
-   Once ScriptCat is installed, install the OhMyMathpad userscript.
+   Once ScriptCat is installed, and your browser restarted, install the OhMyMathpad userscript.
 
    <DownloadButton link="https://raw.githubusercontent.com/ld3z/omm/main/oh-my-mathpad.user.js" secondary>Download</DownloadButton>
 

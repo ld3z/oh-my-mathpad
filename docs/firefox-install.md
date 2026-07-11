@@ -11,7 +11,7 @@ Before installing the userscript, you'll need a UserScript manager to manage it.
 
 1. Install Violentmonkey
 
-   Install the Violentmonkey extension from the Chrome Web Store.
+   Install the Violentmonkey extension from Mozilla Addons.
 
    <DownloadButton link="https://addons.mozilla.org/en-US/firefox/addon/violentmonkey/">Get Violentmonkey</DownloadButton>
 
