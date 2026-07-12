@@ -23,4 +23,14 @@ These steps are for Mac only!
 
    <DownloadButton link="https://apps.apple.com/us/app/userscripts/id1463298887">Get UserScripts</DownloadButton>
 
-2. Open the app
+2. Open the app & configure Safari
+
+   Open the ```Settings``` app on your Mac and find Safari. Look under extensions, and find ```Userscripts``` then enable it.
+
+3. Install the userscript
+
+   Install the OhMyMathpad userscript.
+
+   <DownloadButton link="https://raw.githubusercontent.com/ld3z/omm/main/oh-my-mathpad.user.js" secondary>Download</DownloadButton>
+
+:::

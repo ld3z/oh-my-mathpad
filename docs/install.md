@@ -15,6 +15,13 @@ First select your browser below:
   >
     Install on Google Chrome
   </LinkCard>
+    <LinkCard
+    title="Firefox"
+    link="/firefox-install"
+    logo="/firefox.svg"
+  >
+    Install on Mozilla Firefox
+  </LinkCard>
   <LinkCard
     title="Brave"
     link="/brave-install"
@@ -42,13 +49,6 @@ First select your browser below:
     logo="/edge.svg"
   >
     Install on Microsoft Edge
-  </LinkCard>
-    <LinkCard
-    title="Firefox"
-    link="/firefox-install"
-    logo="/firefox.svg"
-  >
-    Install on Mozilla Firefox
   </LinkCard>
     <LinkCard
     title="Safari"
